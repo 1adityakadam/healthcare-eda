@@ -1,5 +1,5 @@
-# ⚕️ Healthcare-EDA with Plotly
-This project performs exploratory data analysis (EDA) on a healthcare dataset to gain insights into patient demographics, medical conditions, and healthcare costs. The analysis utilizes Python with libraries such as Pandas, NumPy, and Plotly for data manipulation and visualization.
+# ⚕️ Healthcare-EDA with Pandas and Plotly 
+This Pandas + Plotly project performs exploratory data analysis (EDA) on a healthcare dataset to gain insights into patient demographics, medical conditions, and healthcare costs. The analysis utilizes Python with libraries such as Pandas, NumPy, and Plotly for data manipulation and visualization.
 
 <a href='https://github.com/1adityakadam/healthcare-eda/blob/main/healthcare_dataset.csv' >Healthcare Dataset</a>
 <br>
